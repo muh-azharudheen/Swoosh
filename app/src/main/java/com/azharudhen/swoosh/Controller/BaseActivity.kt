@@ -1,4 +1,4 @@
-package com.azharudhen.swoosh
+package com.azharudhen.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
